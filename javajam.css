@@ -86,4 +86,16 @@ background-color: #FCEBB6}
 td {padding: 10px;}
 th {padding: 10px;}
 tr:nth-of-type(odd){background-color: #d2b48e;}
-
+form{padding: 2em;}
+label{float: left;
+text-align: right;
+width: 8em;
+padding-right: 1em;
+display: block;}
+input, textarea {margin-bottom: 1em;
+display: block;}
+#herojobs{background-image: url(herojobs.jpg);
+background-size: 100%;
+height: 250px;
+background-repeat: no-repeat;}
+#mySubmit{margin-left: 9.5em;}
